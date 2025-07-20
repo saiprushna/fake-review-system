@@ -1,0 +1,217 @@
+review_text,product,website,label
+""This phone is amazing, battery lasts all day!",Smartphone,Amazon,0
+"Worst laptop ever, broke in a week. Don't buy!",Laptop,Flipkart,0
+"Best headphones, sound quality is out of this world!",Headphones,Amazon,0
+"Received empty box, total scam!",Smartwatch,eBay,1
+"Product arrived late and was damaged.",Tablet,Amazon,0
+"Unbelievable deal, got a $1000 phone for $10!",Smartphone,AliExpress,1
+"Excellent camera, very satisfied with the purchase.",Camera,Flipkart,0
+"Seller never shipped the item, lost my money.",Shoes,eBay,1
+"Great fit and comfortable shoes.",Shoes,Amazon,0
+"Review: This is the best product ever! (copied from another site)",Tablet,AliExpress,1
+"Absolutely love this speaker, crystal clear sound!",Speaker,Amazon,0
+"Terrible charger, stopped working after a day.",Charger,Flipkart,0
+"Best deal ever, can't believe the price!",TV,AliExpress,1
+"Received a different item than ordered.",Watch,eBay,1
+"Fast delivery, product as described.",Mouse,Amazon,0
+"Fake product, doesn't match the description.",Shoes,Flipkart,1
+"Excellent value for money, highly recommend.",Tablet,Amazon,0
+"Scam! Never received my order.",Camera,eBay,1
+"Product works perfectly, very happy.",Headphones,Amazon,0
+"Unbelievable offer, buy now!",Laptop,AliExpress,1
+"Arrived on time, good packaging.",Tablet,Flipkart,0
+"Worst experience, total waste of money.",Smartphone,eBay,1
+"Very satisfied with the purchase.",Shoes,Amazon,0
+"Do not buy this, it's a scam!",Camera,AliExpress,1
+"Great product, will buy again.",Speaker,Flipkart,0
+"Received used item instead of new.",Laptop,eBay,1
+"Product exceeded my expectations.",Tablet,Amazon,0
+"Item never arrived, lost my money.",Smartwatch,AliExpress,1
+"Very comfortable and fits well.",Shoes,Flipkart,0
+"Best purchase I've made this year!",Headphones,Amazon,0
+"Fake review, don't trust this seller.",Tablet,eBay,1
+"Amazing battery life, lasts for days.",Smartphone,Amazon,0
+"Completely useless, doesn't work at all.",Charger,Flipkart,1
+"Superb sound quality, love these headphones.",Headphones,Amazon,0
+"Received a brick instead of a phone.",Smartphone,eBay,1
+"Camera quality is outstanding.",Camera,Flipkart,0
+"Never got my order, very disappointed.",Shoes,AliExpress,1
+"Tablet is fast and responsive.",Tablet,Amazon,0
+"Fake product, avoid at all costs.",Laptop,Flipkart,1
+"Shoes fit perfectly, very comfortable.",Shoes,Amazon,0
+"Scam seller, do not trust.",Smartwatch,eBay,1
+"Laptop runs smoothly, great for work.",Laptop,Amazon,0
+"Received empty package, total scam.",Camera,AliExpress,1
+"Headphones broke after one use.",Headphones,Flipkart,1
+"Tablet arrived early, works great.",Tablet,Amazon,0
+"Product is a knockoff, not original.",Smartphone,eBay,1
+"Excellent customer service, very helpful.",Shoes,Amazon,0
+"Never received the charger.",Charger,AliExpress,1
+"Speaker has amazing bass.",Speaker,Flipkart,0
+"Completely fake review, don't believe it.",Laptop,eBay,1
+"Camera is perfect for travel.",Camera,Amazon,0
+"Received wrong item, very upset.",Tablet,AliExpress,1
+"Shoes are stylish and comfortable.",Shoes,Flipkart,0
+"Product never arrived, lost my money.",Smartwatch,eBay,1
+"Tablet is lightweight and fast.",Tablet,Amazon,0
+"Fake headphones, poor quality.",Headphones,AliExpress,1
+"Laptop exceeded my expectations.",Laptop,Amazon,0
+"Received damaged product, very disappointed.",Camera,Flipkart,1
+"Smartphone is very user-friendly.",Smartphone,Amazon,0
+"Scam, do not buy from this seller.",Shoes,eBay,1
+"Speaker is loud and clear.",Speaker,Flipkart,0
+"Never got my order, total scam.",Tablet,AliExpress,1
+"Camera takes amazing photos.",Camera,Amazon,0
+"Received fake product, not as described.",Laptop,Flipkart,1
+"Shoes are very durable.",Shoes,Amazon,0
+"Tablet stopped working after a week.",Tablet,eBay,1
+"Headphones are very comfortable.",Headphones,Amazon,0
+"Received empty box, very upset.",Smartphone,AliExpress,1
+"Laptop is fast and reliable.",Laptop,Amazon,0
+"Product is a scam, avoid.",Camera,Flipkart,1
+"Shoes are perfect for running.",Shoes,Flipkart,0
+"Never received the product.",Smartwatch,eBay,1
+"Tablet is great for reading.",Tablet,Amazon,0
+"Fake charger, doesn't work.",Charger,AliExpress,1
+"Speaker has clear sound.",Speaker,Amazon,0
+"Received used item, not new.",Laptop,eBay,1
+"Camera is easy to use.",Camera,Flipkart,0
+"Product never arrived, very disappointed.",Shoes,AliExpress,1
+"Headphones have great sound quality.",Headphones,Amazon,0
+"Received fake tablet, not original.",Tablet,Flipkart,1
+"Laptop is lightweight and powerful.",Laptop,Amazon,0
+"Scam seller, avoid at all costs.",Smartwatch,eBay,1
+"Shoes are very stylish.",Shoes,Amazon,0
+"Tablet arrived damaged.",Tablet,AliExpress,1
+"Speaker is compact and powerful.",Speaker,Flipkart,0
+"Received wrong charger.",Charger,Flipkart,1
+"Camera is perfect for beginners.",Camera,Amazon,0
+"Never received my order, very upset.",Laptop,eBay,1
+"Shoes are very comfortable for walking.",Shoes,Amazon,0
+"Tablet is fast and efficient.",Tablet,Amazon,0
+"Fake headphones, don't buy.",Headphones,AliExpress,1
+"Laptop is perfect for students.",Laptop,Flipkart,0
+"Received empty box, very disappointed.",Smartphone,eBay,1
+"Camera takes clear photos.",Camera,Amazon,0
+"Product is a knockoff, avoid.",Shoes,AliExpress,1
+"Tablet is great for work.",Tablet,Amazon,0
+"Fake review, don't trust this product.",Laptop,Flipkart,1
+"Speaker has excellent sound quality.",Speaker,Amazon,0
+"Received damaged item, very upset.",Camera,eBay,1
+"Shoes are perfect for sports.",Shoes,Flipkart,0
+"Tablet is lightweight and easy to use.",Tablet,Amazon,0
+"Fake charger, avoid buying.",Charger,AliExpress,1
+"Headphones are very durable.",Headphones,Amazon,0
+"Received wrong product, very disappointed.",Laptop,eBay,1
+"Camera is great for beginners.",Camera,Flipkart,0
+"Product never arrived, lost my money.",Shoes,AliExpress,1
+"Tablet is perfect for students.",Tablet,Amazon,0
+"Fake headphones, poor sound quality.",Headphones,AliExpress,1
+"Laptop is fast and efficient.",Laptop,Amazon,0
+"Received empty package, very upset.",Camera,Flipkart,1
+"Shoes are very comfortable for running.",Shoes,Amazon,0
+"Tablet is great for watching movies.",Tablet,Amazon,0
+"Fake review, don't believe it.",Laptop,AliExpress,1
+"Speaker is loud and clear.",Speaker,Flipkart,0
+"Received damaged product, very disappointed.",Camera,eBay,1
+"Shoes are perfect for daily use.",Shoes,Amazon,0
+"Tablet is lightweight and portable.",Tablet,Amazon,0
+"Amazing phone, exceeded my expectations!",Smartphone,Amazon,0
+"Received a fake product, very disappointed.",Tablet,AliExpress,1
+"Laptop is super fast and reliable.",Laptop,Flipkart,0
+"Never received my order, total scam.",Camera,eBay,1
+"Headphones are comfortable and sound great.",Headphones,Amazon,0
+"Product is a knockoff, avoid buying.",Shoes,AliExpress,1
+"Tablet is perfect for reading books.",Tablet,Amazon,0
+"Received damaged item, not happy.",Smartwatch,eBay,1
+"Shoes fit perfectly, very stylish.",Shoes,Flipkart,0
+"Fake review, don't trust this seller.",Laptop,AliExpress,1
+"Speaker has excellent sound quality.",Speaker,Amazon,0
+"Received empty box, very upset.",Camera,Flipkart,1
+"Smartphone battery lasts all day.",Smartphone,Amazon,0
+"Product never arrived, lost my money.",Tablet,eBay,1
+"Laptop is lightweight and powerful.",Laptop,Amazon,0
+"Scam seller, avoid at all costs.",Shoes,AliExpress,1
+"Tablet is fast and efficient.",Tablet,Flipkart,0
+"Received wrong product, very disappointed.",Camera,eBay,1
+"Headphones are perfect for travel.",Headphones,Amazon,0
+"Fake charger, doesn't work.",Charger,AliExpress,1
+"Shoes are very comfortable for running.",Shoes,Amazon,0
+"Tablet arrived damaged, not usable.",Tablet,Flipkart,1
+"Laptop is great for students.",Laptop,Amazon,0
+"Never received the product, very upset.",Smartwatch,eBay,1
+"Speaker is compact and powerful.",Speaker,Flipkart,0
+"Received used item instead of new.",Laptop,AliExpress,1
+"Camera takes clear photos.",Camera,Amazon,0
+"Product is a scam, avoid buying.",Shoes,Flipkart,1
+"Tablet is lightweight and easy to use.",Tablet,Amazon,0
+"Fake headphones, poor sound quality.",Headphones,AliExpress,1
+"Laptop runs smoothly, very happy.",Laptop,Amazon,0
+"Received empty package, total scam.",Camera,eBay,1
+"Shoes are perfect for daily use.",Shoes,Amazon,0
+"Tablet is great for watching movies.",Tablet,Flipkart,0
+"Fake review, don't believe it.",Laptop,AliExpress,1
+"Speaker is loud and clear.",Speaker,Amazon,0
+"Received damaged product, very disappointed.",Camera,Flipkart,1
+"Shoes are very stylish and comfortable.",Shoes,Amazon,0
+"Tablet is perfect for work.",Tablet,AliExpress,0
+"Fake charger, avoid buying.",Charger,Flipkart,1
+"Headphones are very durable.",Headphones,Amazon,0
+"Received wrong item, very upset.",Laptop,eBay,1
+"Camera is great for beginners.",Camera,Amazon,0
+"Product never arrived, lost my money.",Shoes,AliExpress,1
+"Tablet is perfect for students.",Tablet,Amazon,0
+"Fake headphones, don't buy.",Headphones,AliExpress,1
+"Laptop is fast and efficient.",Laptop,Flipkart,0
+"Received empty box, very disappointed.",Smartphone,eBay,1
+"Camera takes amazing photos.",Camera,Amazon,0
+"Product is a knockoff, avoid.",Shoes,AliExpress,1
+"Tablet is great for reading.",Tablet,Amazon,0
+"Fake review, don't trust this product.",Laptop,Flipkart,1
+"Speaker has amazing bass.",Speaker,Amazon,0
+"Received damaged item, very upset.",Camera,eBay,1
+"Shoes are perfect for sports.",Shoes,Flipkart,0
+"Tablet is lightweight and portable.",Tablet,Amazon,0
+"Fake charger, doesn't work at all.",Charger,AliExpress,1
+"Headphones are very comfortable for long use.",Headphones,Amazon,0
+"Received wrong product, very disappointed.",Laptop,eBay,1
+"Camera is easy to use.",Camera,Flipkart,0
+"Product never arrived, very disappointed.",Shoes,AliExpress,1
+"Tablet is perfect for gaming.",Tablet,Amazon,0
+"Fake headphones, poor build quality.",Headphones,AliExpress,1
+"Laptop is great for work and play.",Laptop,Amazon,0
+"Received empty package, very upset.",Camera,Flipkart,1
+"Shoes are very comfortable for walking.",Shoes,Amazon,0
+"Tablet is fast and responsive.",Tablet,Flipkart,0
+"Fake review, don't believe it.",Laptop,AliExpress,1
+"Speaker is loud and powerful.",Speaker,Amazon,0
+"Received damaged product, very disappointed.",Camera,eBay,1
+"Shoes are perfect for running and walking.",Shoes,Flipkart,0
+"Tablet is lightweight and easy to use.",Tablet,Amazon,0
+"Fake review, don't trust this seller.",Laptop,AliExpress,1
+"Smartphone has excellent features.",Smartphone,Amazon,0
+"Received fake item, waste of money.",Tablet,eBay,1
+"Laptop works great for office tasks.",Laptop,Flipkart,0
+"Scam product, never delivered.",Camera,AliExpress,1
+"Headphones are clear and loud.",Headphones,Amazon,0
+"Fake product alert, be careful!",Shoes,eBay,1
+"Tablet runs smoothly and fast.",Tablet,Amazon,0
+"Received damaged charger, not working.",Charger,AliExpress,1
+"Speaker has great audio clarity.",Speaker,Flipkart,0
+"Completely fake review, don’t trust.",Laptop,eBay,1
+"Camera is sharp and professional.",Camera,Amazon,0
+"Received empty box instead of product.",Tablet,AliExpress,1
+"Shoes are durable and stylish.",Shoes,Amazon,0
+"Never got my order, total scam!",Smartwatch,eBay,1
+"Tablet is a great value for price.",Tablet,Amazon,0
+"Fake charger delivered, doesn’t charge.",Charger,AliExpress,1
+"Headphones are perfect for daily use.",Headphones,Amazon,0
+"Received fake laptop instead of original.",Laptop,AliExpress,1
+"Camera captures crisp photos.",Camera,Flipkart,0
+"Item never delivered, very upset.",Shoes,eBay,1
+"Tablet works well for studying.",Tablet,Amazon,0
+"Fake headphones delivered, don’t work.",Headphones,AliExpress,1
+"Laptop performance is excellent.",Laptop,Amazon,0
+"Received wrong item again, disappointed.",Camera,eBay,1
+"Shoes are ideal for sports.",Shoes,Flipkart,0
+"Tablet is lightweight and sturdy.",Tablet,Amazon,0

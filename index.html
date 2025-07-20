@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fake Review Detection System</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="icon" href="https://img.icons8.com/3d-fluency/94/artificial-intelligence.png">
+</head>
+<body>
+    <header class="main-header">
+        <span style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+            <h1 style="margin: 0;">Fake Review Detection System</h1>
+            <img src="https://img.icons8.com/color/48/000000/verified-account--v2.png" alt="Verified Shield" style="width: 38px; height: 38px; vertical-align: middle; margin-left: 2px;" />
+        </span>
+    </header>
+    <main class="homepage-main">
+        <section class="intro-section">
+            <h2>Welcome!</h2>
+            <p>
+                This system uses advanced AI to help you detect fake product reviews. Paste a review to analyze it instantly. Make smarter decisions and avoid misleading information!
+            </p>
+        </section>
+        <section class="options-section">
+            <div class="option-card" id="paste-review-card">
+                <h3>Paste a Review</h3>
+                <form id="singleReviewForm">
+                    <textarea id="singleReviewInput" rows="4" placeholder="Paste your review here..." required></textarea>
+                    <button type="submit" class="neon-btn">Analyze Review</button>
+                </form>
+                <div id="singleReviewResult"></div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>Made with <span style="color: #e25555;">&#10084;</span> by <span class="footer-brand">Your Name</span></p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html> 
