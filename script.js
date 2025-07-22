@@ -10,7 +10,7 @@ if (singleReviewForm) {
         singleReviewResult.textContent = 'Analyzing...';
 
         try {
-            const response = await fetch('https://fake-review-system.vercel.app//predict', {
+            const response = await fetch('https://fake-review-system.vercel.app/predict', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ review })
